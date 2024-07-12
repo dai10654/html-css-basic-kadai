@@ -51,6 +51,7 @@ h2::before {
 }
 footer{
   background-color: rgb(255, 255, 255);
+  text-align: center;
 }
 a:visited{
   color: rgb(193, 234, 251);
