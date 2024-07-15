@@ -46,7 +46,7 @@ PC用のスタイル
     color: #0d0d0d;
   }
 
-  #menu-sp {
+  #menu-sp,#nav-sp {
     display: none;
   }
 }
@@ -105,7 +105,7 @@ PC用のスタイル
   }
 
   #nav-sp > .menu {
-    text-decoration: underline;
+    text-decoration: none;
     display: block;
     margin: 0 20px;
     height: 44px;
@@ -114,4 +114,5 @@ PC用のスタイル
     background-repeat: no-repeat;
     background-position: right top;
   }
+
 }
